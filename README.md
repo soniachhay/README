@@ -1,4 +1,4 @@
-# Hi, my name is Sonia! 
+# Hi, my name is Sonia!
 
 Interests:
 - Data Science, NLP
@@ -6,3 +6,4 @@ Interests:
 
 Currently reading: 
 - https://www.sitepoint.com/github-profile-readme/
+- https://www.gormanalysis.com
